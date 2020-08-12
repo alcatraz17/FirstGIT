@@ -1,0 +1,2 @@
+This text is added to state that the directory is cleaned.
+Naved you are awesome.
